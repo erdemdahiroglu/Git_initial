@@ -10,11 +10,11 @@ def calculation_1(s1, s2):
 
 
 def calculation_2(s1, s2):
-    return (s1 * s2) - (s2 - s1) / 20
+    return (s1 * s2) - (s2 - s1)
 
 
 def main():
-    print("Version 1")
+    print("master")
     n1 = random.randint(5, 9)
     n2 = random.randint(4, 7)
     n3 = adding(n1, n2)
