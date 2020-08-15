@@ -14,11 +14,11 @@ def main():
     n1 = random.randint(5, 9)
     n2 = random.randint(4, 7)
 
-    n4 = calculation_1(n1, n2)
-    print(n1, n2, n4)
+    n3 = calculation_1(n1, n2)
+    print(n1, n2, n3)
         
-    n5 = calculation_2(n1, n2)
-    print(n1, n2, n5)
+    n4 = calculation_2(n1, n2)
+    print(n1, n2, n4)
 
 
 main()
