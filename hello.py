@@ -11,8 +11,8 @@ def calculation_2(s1, s2):
 
 def main():
     print("Version 1")
-    n1 = random.randint(5, 9)
-    n2 = random.randint(4, 7)
+    n1 = random.randint(4, 9)
+    n2 = random.randint(3, 7)
 
     n3 = calculation_1(n1, n2)
     print(n1, n2, n3)
