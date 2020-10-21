@@ -10,7 +10,7 @@ def calculation_2(s1, s2):
 
 
 def main():
-    print("Version 1")
+    print("Version 1.1")
     n1 = random.randint(4, 9)
     n2 = random.randint(3, 7)
 
